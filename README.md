@@ -6,7 +6,7 @@ I've been interested in computers and software development for a long time! My d
   
 I've been married since May 2019 and am a father of a little 1 year old girl! I live the in sporadically beautiful Cleveland OH :grin: Some of my hobbies include traveling around the country to amusement/theme parks 🎢  and indoor rock climbing!
   
-#### Please feel free to reach out to me via email: aaronjschuster@gmail.com
+#### Please feel free to reach out to me! - aaronjschuster@gmail.com - <span class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="aaschuster" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/aaschuster?trk=profile-badge">LinkedIn</a></span>           
 
 <!--
 **aaschuster/aaschuster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
