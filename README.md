@@ -1,8 +1,8 @@
-### Hi there!  My name is Aaron Schuster and I'm currently in BloomTech's full stack web developer program. :computer:
+### Hi there!  My name is Aaron Schuster and I'm a full stack web developer. :computer:
 
 ---
 
-Currently, I'm working hands-on with JavaScript (including React), HTML and CSS to build out cloud-native web applications and specific software feature components. I have had an interest in computers and software development for a long time and I have worked with C, C++, Pascal (Delphi), and Java tech stacks previously. **I'm very excited to keep learning and dive into a career in web development!**
+I've recently graduated from the BloomTech full stack web developer program. In this program I worked hands-on with JavaScript (including React), HTML and CSS to build out cloud-native web applications and specific software feature components. I have had an interest in computers and software development for a long time and I have worked with C, C++, Pascal (Delphi), and Java tech stacks previously. **I'm very excited to keep learning and dive into a career in web development!**
 
 --
   
